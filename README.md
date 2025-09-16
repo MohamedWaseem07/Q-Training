@@ -5,6 +5,7 @@ Some Text on YouTube.
 
 ## Local Development
 
-1. Open index.html in your browser.
+Open index.html in your browser.
+Follow the instrctions
 
 
